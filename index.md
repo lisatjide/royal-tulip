@@ -120,7 +120,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Award Winning Agency Based in San Francisco and California and Singapore
       keyName: property
     - name: 'og:description'
       value: >-
